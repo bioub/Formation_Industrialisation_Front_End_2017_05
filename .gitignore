@@ -1,0 +1,9 @@
+.idea
+.vscode
+
+node_modules
+bower_components
+jspm_packages
+
+*.exe
+*.msi
