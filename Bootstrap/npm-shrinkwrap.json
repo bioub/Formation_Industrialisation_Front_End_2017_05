@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "bootstrap": {
+      "version": "3.3.7",
+      "from": "bootstrap@3.3.7",
+      "resolved": "https://registry.npmjs.org/bootstrap/-/bootstrap-3.3.7.tgz"
+    },
+    "font-awesome": {
+      "version": "4.7.0",
+      "from": "font-awesome@>=4.7.0 <5.0.0",
+      "resolved": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz"
+    }
+  }
+}
