@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.4.0",
+    "http-server": "^0.10.0",
+    "webpack": "^2.5.1"
+  },
+  "scripts": {
+    "build": "webpack",
+    "start:dev": "npm run build && http-server"
+  }
+}
