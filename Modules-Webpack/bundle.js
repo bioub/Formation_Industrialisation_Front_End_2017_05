@@ -107,7 +107,6 @@ var _random = __webpack_require__(0);
 
 setInterval(function () {
     var n = (0, _random.getRandomIntInclusive)(0, 255);
-
     document.body.style.backgroundColor = 'rgb(' + n + ', ' + n + ', ' + n + ')';
 }, 1000);
 

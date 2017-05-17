@@ -9,5 +9,12 @@ import '../less/app.less';
 import 'bootstrap/js/modal';
 import 'bootstrap/js/collapse';
 import 'bootstrap/js/transition';
+import 'bootstrap/js/tooltip';
+
+var prenom = 'Romain';
+
+$('.btn-lg').tooltip({
+  title: 'Clic moi ' + prenom
+});
 
 
